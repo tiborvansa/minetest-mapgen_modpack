@@ -7,3 +7,6 @@
 [submodule "mapgen_helper"]
 	path = mapgen_helper
 	url = https://github.com/minetest-mods/mapgen_helper.git
+[submodule "handle_schematics"]
+	path = handle_schematics
+	url = https://github.com/Sokomine/handle_schematics.git
