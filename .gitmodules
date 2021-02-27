@@ -1,0 +1,9 @@
+[submodule "cloudlands"]
+	path = cloudlands
+	url = https://github.com/Treer/cloudlands.git
+[submodule "nyancats_plus"]
+	path = nyancats_plus
+	url = https://github.com/red-001/nyancats_plus.git
+[submodule "mapgen_helper"]
+	path = mapgen_helper
+	url = https://github.com/minetest-mods/mapgen_helper.git
